@@ -2,3 +2,4 @@
 | ---- | --------- | ---- | ----------------------- | ---- |---- |---- |---- |---- |---- |---- |---- |---- |---- | ---- | ----- | ---- | ----------------------- | ---- |---- |---- |---- |---- |---- |---- |---- |---- |---- |---- |
 |HelloWorld|||:heavy_check_mark:|:heavy_check_mark:|||||||||||:heavy_check_mark:|||||||||||||
 
+[Wiki](https://github.com/SamPutnam/Short-Programs-and-Lots-of-Languages/wiki)
